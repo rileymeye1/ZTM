@@ -1,0 +1,16 @@
+/* Selector {
+  Property: value;
+} */
+
+h2 {
+  color: red;
+  text-align: center;
+}
+
+p {
+  color: pink;
+}
+
+p {
+  color: green;
+}

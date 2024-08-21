@@ -1,0 +1,9 @@
+h2 {
+  color: blue;
+}
+
+.boxmodel {
+  border: 5px solid red;
+  display: inline-block;
+  padding: 5px 20px 5px 20px;
+}
